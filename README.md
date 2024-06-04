@@ -1,11 +1,28 @@
-.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　　　　　　　   　　　　　　　　　　　　　.　　　☄　　　　　　　　 　　　. 　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　 .　　　　　　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　✦ 　　　　　　,　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　  . ☀️ 　　　　　　　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　. 　　　　　　　　.　　　　　　　　　　　　　.　　　　　　       　   　　　　 　　　　　　　　　　　　　　　　       　   　　　　　　　　　　　　　　　　       　    ✦ 　   　　　,　　　　　　　　　　　  　　　　 　　,　　　 ‍ ‍ ‍ ‍ 　 　　　　　　　　　　　　.　　　　　 　　 　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　. ˚　　　 　   . ,　　　　　　　　　　　       　    　　　　　　　　　　　　　. .　　　  　　    ✦　 ✦　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　　　　 　　   　　　　　 ✦ 　　　　　　　         　        　　　　 　　 　　　　　　　 　　　　　.　　　　　　　　　　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　　　 　　　　　   　　　　　.　　　　　　　　　　　.　　　　　　　　　　   　 　˚　　 . ✦ ✦　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　 ✦
+```
+λ ~ » cat profile.txt
 
-<hr />
+  @@@@      %@@                             
+    @@       @@                             
+    @@                                      
+    @@                                      
+    @@      @@@     @@@  /@@@@@ /@@@@@@     
+    @@       @@       @/@@/   @@@/    @@    
+    @@       @@       @@/     @@      @@@   
+    @@       @@       @@      @@      @@@   
+    @@       @@       @@      @@      @@@   
+    @@       @@       @@      @@      @@@   
+    @@       @@       @@      @@      @@@   
+  @@@@@@   @@@@@@   @@@@@@  @@@@@@  @@@@@@@ 
+                                            
+                       @@                   
+   @@@@                 @@         @@@@@    
+ &@/   @@                @@      @@      @  
+     @@@@    @@@@@@@@@@@@@@@@    @       #@ 
+ @@&/  @@                @@     .@       #@.
+@@@   /@@ @             @@       @/      @% 
+  @@@@  @@             @@          @@@@@@   
 
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=LimaoC&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues&hide_rank=true&bg_color=00000000" />
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaoC&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,css,html,scss,markdown">
-</p>
+```
 
 <!--
 **LimaoC/LimaoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
